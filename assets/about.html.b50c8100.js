@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,b as e,d as c}from"./app.33ea22db.js";const r={},s=e("h1",{id:"您",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#您","aria-hidden":"true"},"*"),c(" 您")],-1),n=[s];function _(d,i){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","about.html.vue"]]);export{l as default};

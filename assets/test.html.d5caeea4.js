@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as s,c,e as n}from"./app.33ea22db.js";const r={};function _(a,l){const e=o("TestVue");return s(),c("div",null,[n(e)])}const f=t(r,[["render",_],["__file","test.html.vue"]]);export{f as default};

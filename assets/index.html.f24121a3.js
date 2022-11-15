@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ca5689ce","path":"/product/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"产品","slug":"产品","link":"#产品","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"product/README.md"}');export{t as data};
